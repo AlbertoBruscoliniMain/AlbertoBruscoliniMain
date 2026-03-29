@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ── ANIMATED TYPING HEADER ── -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alberto+%F0%9F%91%8B;5th+year+CS+student+%C2%B7+Bologna+%F0%9F%87%AE%F0%9F%87%B9;Python+%7C+Web+Dev+%7C+AI+enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alberto+%F0%9F%91%8B;5th+year+CS+student+%C2%B7+Rimini+%F0%9F%87%AE%F0%9F%87%B9;Python+%7C+Web+Dev+%7C+AI+enthusiast" alt="Typing SVG" />
 
 <br/>
 

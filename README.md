@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20portfolio-albertobruscolini.github.io-7B61FF?style=for-the-badge)](https://albertobruscolini.github.io)
+[![Portfolio](https://img.shields.io/badge/🌐%20portfolio-albertobruscolinimain.github.io-7B61FF?style=for-the-badge)](https://albertobruscolinimain.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-AlbertoBruscoliniMain-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoBruscoliniMain)
 [![Instagram](https://img.shields.io/badge/Instagram-albii0__-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/albii0__)
 [![Discord](https://img.shields.io/badge/Discord-albiss-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
@@ -41,12 +41,12 @@ Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show
 
 <br/><br/><br/>
 
-<a href="https://albertobruscolini.github.io">
+<a href="https://albertobruscolinimain.github.io">
   <h2>🌐 Visit my Portfolio</h2>
 </a>
 
-<a href="https://albertobruscolini.github.io">
-  <strong>albertobruscolini.github.io</strong>
+<a href="https://albertobruscolinimain.github.io">
+  <strong>albertobruscolinimain.github.io</strong>
 </a>
 
 <br/>
@@ -90,9 +90,7 @@ Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show
 <div align="center">
 
 <!-- PINNED_REPOS_START -->
-[![](https://img.shields.io/badge/RaxeusAI-%E2%86%97_open-7B61FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/AlbertoBruscoliniMain/RaxeusAI)  [![](https://img.shields.io/badge/StudioJarvisAi-%E2%86%97_open-7B61FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/AlbertoBruscoliniMain/StudioJarvisAi)
-
-[![](https://img.shields.io/badge/AlbertoBruscoliniMain-%E2%86%97_open-7B61FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/AlbertoBruscoliniMain/AlbertoBruscoliniMain)
+_pinned repos will appear here automatically after the first Action run_
 <!-- PINNED_REPOS_END -->
 
 </div>
@@ -100,5 +98,5 @@ Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show
 ---
 
 <div align="center">
-<sub>⚡ auto-updated &nbsp;·&nbsp; <a href="https://albertobruscolini.github.io">visit my portfolio →</a></sub>
+<sub>⚡ auto-updated &nbsp;·&nbsp; <a href="https://albertobruscolinimain.github.io">visit my portfolio →</a></sub>
 </div>

@@ -41,13 +41,14 @@ Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show
 
 <br/><br/><br/>
 
-[![](https://img.shields.io/badge/-%F0%9F%8C%90%20visit%20my%20portfolio-7B61FF?style=for-the-badge&labelColor=0d0d0d&logoColor=white)](https://albertobruscolini.github.io)
+<a href="https://albertobruscolini.github.io">
+  <img src="https://img.shields.io/badge/-%20%20🌐%20%20VISIT%20MY%20PORTFOLIO%20%20-7B61FF?style=for-the-badge&labelColor=1a1a2e&logoColor=white" height="48" />
+</a>
 
-**[albertobruscolini.github.io](https://albertobruscolini.github.io)**
-
-<sub>projects · skills · contacts</sub>
-
+<br/><br/>
+<a href="https://albertobruscolini.github.io"><sub>albertobruscolini.github.io →</sub></a>
 <br/>
+<sub>projects · skills · contacts</sub>
 
 <!-- OPTIONAL: add your photo below -->
 <!-- <img src="YOUR_PHOTO.png" width="200" /> -->
@@ -86,16 +87,9 @@ Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show
 
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║  Replace REPO_NAME with your actual repository names.       ║ -->
-<!-- ║  The badge text is what gets displayed — change it too!     ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════╝ -->
-
-[![](https://img.shields.io/badge/📦_REPO__NAME__1-view%20on%20github-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoBruscolini/REPO_NAME_1)
-[![](https://img.shields.io/badge/📦_REPO__NAME__2-view%20on%20github-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoBruscolini/REPO_NAME_2)
-
-[![](https://img.shields.io/badge/📦_REPO__NAME__3-view%20on%20github-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoBruscolini/REPO_NAME_3)
-[![](https://img.shields.io/badge/📦_REPO__NAME__4-view%20on%20github-181717?style=for-the-badge&logo=github)](https://github.com/AlbertoBruscolini/REPO_NAME_4)
+<!-- PINNED_REPOS_START -->
+_pinned repos will appear here automatically after the first Action run_
+<!-- PINNED_REPOS_END -->
 
 </div>
 

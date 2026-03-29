@@ -24,7 +24,7 @@
 
 I'm a **19-year-old** developer from **Rimini, Italy** 🇮🇹 in my final year of a Computer Science high school.
 
-I spend most of my time writing Python, breaking things, and figuring out how to fix them. I'm currently diving into **AI and machine learning** — slowly building my first model from scratch.
+I like coding with Python, breaking things, and figuring out how to fix them. I'm currently diving into **AI and machine learning** — slowly building my first model from scratch.
 
 Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show up, put in the work, get better.
 

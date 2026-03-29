@@ -42,11 +42,13 @@ Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show
 <br/><br/><br/>
 
 <a href="https://albertobruscolini.github.io">
-  <img src="https://img.shields.io/badge/-%20%20🌐%20%20VISIT%20MY%20PORTFOLIO%20%20-7B61FF?style=for-the-badge&labelColor=1a1a2e&logoColor=white" height="48" />
+  <h2>🌐 Visit my Portfolio</h2>
 </a>
 
-<br/><br/>
-<a href="https://albertobruscolini.github.io"><sub>albertobruscolini.github.io →</sub></a>
+<a href="https://albertobruscolini.github.io">
+  <strong>albertobruscolini.github.io</strong>
+</a>
+
 <br/>
 <sub>projects · skills · contacts</sub>
 
@@ -88,7 +90,7 @@ Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show
 <div align="center">
 
 <!-- PINNED_REPOS_START -->
-[![](https://img.shields.io/badge/Progetto-Fine-Anno-%E2%86%97_open-7B61FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/AlbertoBruscolini/Progetto-Fine-Anno)
+_pinned repos will appear here automatically after the first Action run_
 <!-- PINNED_REPOS_END -->
 
 </div>

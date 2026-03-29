@@ -90,7 +90,7 @@ Outside of coding I'm into **sports and the gym** 🏋️ — same mindset: show
 <div align="center">
 
 <!-- PINNED_REPOS_START -->
-_pinned repos will appear here automatically after the first Action run_
+[![](https://img.shields.io/badge/Progetto-Fine-Anno-%E2%86%97_open-7B61FF?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/AlbertoBruscolini/Progetto-Fine-Anno)
 <!-- PINNED_REPOS_END -->
 
 </div>
